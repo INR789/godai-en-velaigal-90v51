@@ -17,3 +17,5 @@ Signup may require email confirmation. Confirm the received email before signing
 Sign up or sign in, enter a task, optionally choose a due date and priority, and select சேர்க்க. Check a task to complete it. Use திருத்து to edit, நீக்கு to delete, and the filter buttons or search to find tasks. Sign out with வெளியேறு. Dates use the device's local date; overdue tasks are highlighted. Pending and high-priority tasks appear first.
 
 No build tools, external fonts, API keys, or CDN dependencies are required. An internet connection and a functioning provided GodDB service are required for account and task operations.
+
+GOD AI சோதனை வரி — தானியங்கி சோதனை வெற்றி
